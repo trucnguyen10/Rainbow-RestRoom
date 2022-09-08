@@ -1,4 +1,4 @@
-💡 #Inspiration
+💡 #Inspiration#
 
 GENDER-NEUTRAL RESTROOM PERSPECTIVE 🚽
 Was born in Asian countries where non-binary individuals and people from the LGBTQ+ community have limited restroom choices, they will need to think about which room is suitable for either themselves or the community. I appreciate how gender-neutral restrooms are normalized in the US, which means there are more space and privacy for everyone regardless of their gender identity and representation. Therefore, I built Rainbow Restroom for many purposes. On the one hand, I want to help students on college campuses to find restroom locations that are convenient for them. On the other hand, by building this website I hope to push for more gender-neutral restrooms everywhere, so that people of all genders could feel safe in their everyday lives.
